@@ -1,0 +1,24 @@
+{
+  "name": "@hamgom95/enum",
+  "version": "0.1.0",
+  "description": "javascript enum implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.spec.js | tap-color"
+  },
+  "keywords": [
+    "enum"
+  ],
+  "author": {
+    "name": "Kevin Thomas",
+    "email": "hamgom95@gmail.com"
+  },
+  "files": [
+    "index.js"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "riteway": "^5.0.1",
+    "tap-color": "^1.1.0"
+  }
+}
